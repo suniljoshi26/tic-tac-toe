@@ -16,15 +16,17 @@ code {
   width: 120px;
   height: 120px;
   font-size: 50px;
-  
-  border:black ,2px ;
-  color: rgba(255, 255, 255, 0.961);
+  border-style:solid;
+  border-color: red ;
+  color: rgba(64, 69, 70, 0.961);
 
 }
 .Board-row{
 
   display: flex ;
   justify-content: center;
+
+  
 }
 .heading{
   text-align: center;
